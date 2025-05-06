@@ -1,0 +1,21 @@
+Nome: Henrique Antônio Guanais Corneau
+git init
+git remote add origin https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead.git
+git branch -m main
+git add .
+git commit -m "Novo arquivo de texto"
+git checkout -b feature-1
+git add .
+git commit -m "Alteracao do arquivo de texto"
+git checkout main
+git add .
+git commit -m "Alteracao do arquivo de texto pela main"
+git merge feature-1 
+git add .
+git commit -m "Resolucao de conflito entre arquivos"
+git checkout -b add-comandos
+git add .
+git commit -m "Arquivo de comandos"
+git remote add origin-atividade https://github.com/henriqueguanais/curso-git-embarcatech2.git
+git push origin-atividade main
+git push origin-atividade add-comandos
