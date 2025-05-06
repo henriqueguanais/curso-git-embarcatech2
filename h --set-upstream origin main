@@ -1,0 +1,24 @@
+[33mcommit 377fb4e5362757b98c27a1734b6dd768ac5fa0f8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 4f2cfee 713ebd8
+Author: henriqueguanais <henriquecorneaudr@gmail.com>
+Date:   Tue May 6 14:56:23 2025 -0300
+
+    Resolucao de conflito entre arquivos
+
+[33mcommit 4f2cfee64be01794a1f63bd29368f5202dd74739[m
+Author: henriqueguanais <henriquecorneaudr@gmail.com>
+Date:   Tue May 6 14:55:01 2025 -0300
+
+    Alteracao do arquivo de texto pela main
+
+[33mcommit 713ebd8dacf7202c859fa9dd85b252bd02738db1[m[33m ([m[1;32mfeature-1[m[33m)[m
+Author: henriqueguanais <henriquecorneaudr@gmail.com>
+Date:   Tue May 6 14:52:02 2025 -0300
+
+    Alteracao do arquivo de texto
+
+[33mcommit 9d1c45c1d4cc97f87ec2805a08fbb2384094441f[m
+Author: henriqueguanais <henriquecorneaudr@gmail.com>
+Date:   Tue May 6 14:47:35 2025 -0300
+
+    Novo arquivo de texto
