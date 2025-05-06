@@ -17,4 +17,5 @@ git checkout -b add-comandos
 git add .
 git commit -m "Arquivo de comandos"
 git remote add origin-atividade https://github.com/henriqueguanais/curso-git-embarcatech2.git
-
+git push origin-atividade main
+git push origin-atividade add-comandos
